@@ -67,31 +67,33 @@
 
 
 
-# Website
+# Product Landing Page
 
-Landing Page, responsive developed for the company EADIC, form with API integration Vtiger CRM and ActiveCampaign
-
+Product Landing Page, responsive developed for the company EADIC, virtual store, cart and virtual gateway, paypal and credit card
 
 
 ## Landing Web
 
-[https://www.eadic.info/convenios-sib/](https://www.eadic.info/convenios-sib/)
+[https://www.eadic.info/producto/autocad-plant-3d-basico-intermedio/](https://www.eadic.info/producto/autocad-plant-3d-basico-intermedio/)
 
 
 ## Tech Used
 
 
-**Client:**  Elementor, Js, Jquery, CSS3, Fontawesome, Intl-tel-input
+**Client:**  Elementor, Js, Jquery, CSS3, WooCommerce
 
-**API:** [Vtiger CRM](https://help.vtiger.com/article/147111249-Rest-API-Manual), [ActiveCampaign](https://developers.activecampaign.com/reference/overview)
+**Payment gateway:** Paypal, Redsys
 
 **Server:** PHP, MySQL, WordPress
 
 
 ## Screenshots Project
 
-![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/landing-convenio-.png)
+![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/Landing-page-producto.png)
 
+![cart](https://stupefied-kepler.143-198-236-91.plesk.page/img/carrito.png)
+
+![checkout](https://stupefied-kepler.143-198-236-91.plesk.page/img/finalizar-compra.png)
 
 
 ## Used By
